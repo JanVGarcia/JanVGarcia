@@ -1,4 +1,4 @@
-### Olá
+### Olá me chamo João Vitor, sou formado em biotecnologia e estudante de engenharia de software. 👋
 
 
 <div align="left">
